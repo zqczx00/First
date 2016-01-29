@@ -1,0 +1,31 @@
+空格
+&nbsp;
+添加水平线
+<hr />
+加粗
+strong /
+斜体
+em /
+空标签
+span /
+地址
+address /
+插入代码
+code /  pre /
+<table>
+	tr/
+		th/
+	tr/
+		td/
+</table>
+表格标题和摘要
+caption /
+链接
+<a href="http://" title="提示信息" target="_blank"(在空标签中打开)>
+<a href="mailto:1092863169@qq.com?subject=主题&bode内容"
+插入图片
+<img src="图片地址" alt="下载失败时的替换文本" title = "提示文本">
+form表单
+<form>
+   <input type="text/password" name="名称" value="文本" />
+</form>
