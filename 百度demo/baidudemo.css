@@ -70,7 +70,7 @@ body{background-color:#fff;font:12px/1.5em  "宋体",sans-serif;}
 	.right .list{margin-top: 20px;font-size: 15px;padding: 0px;height: 30px;}
 	.list .left-list{float: left;width: 160px;list-style: square;;}
 	.list .right-list{float:left;width: 160px;list-style: square;}
-	.right .list span{display: inline-block;}
-	.right .new{background: url(news_7dd96f5d.png);}
-	.right .new{background-position:0 -100px;width: 14px;height: 16px; display: inline-block;
-				margin: 0 auto;}
+	.right .list{display: inline-block;}
+	.right .new{background: url(news_7dd96f5d.png);background-position:0 -100px;}
+	.right .new{width: 14px;height: 20px; display: inline-block;
+				margin-left: 5px;vertical-align: middle;}
